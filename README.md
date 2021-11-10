@@ -1,4 +1,4 @@
-# Unity-TextMeshPro-ChineseCharacterSet
+# Unity-TextMeshPro-Chinese-Characters-Set
 
 Used to create Unity TextMeshPro Chinese font. 
 
