@@ -14,4 +14,4 @@ Used to create Unity TextMeshPro Chinese font.
 
 Conclude &approx;[3500](/3500汉字+符号+英文字符集.txt) (or &approx;[7000](/7000汉字+符号+英文字符集.txt)) common Chinese characters + all English letters(a,b,c...,A,B,C....) + common symbols(@#￥...)(Basic Latin Unicode characters) + common Chinese symbols(，。！？...)
 
-Could you please give me a **star**⭐  if it helped you? Thank you!
+Could you please give me a **star**⭐ if this repo is helpful to you? Thank you!
