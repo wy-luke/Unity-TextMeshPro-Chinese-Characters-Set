@@ -6,7 +6,9 @@
 
 [使用教程](https://blog.csdn.net/qq_37454669/article/details/121128100)
 
-当然也可以直接下载**我制作好的**，字体采用的是 `NotoSansSC-Medium.otf`，文件名是 [TMPChineseFont.zip](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set/blob/main/TMPChineseFont.zip)
+当然也可以直接下载**我制作好的**，字体采用的是 `NotoSansSC-Medium.otf`，文件名是 TMPChineseFont.zip
+
+***本仓库中的文件都可以通过下面的蓝奏云链接中下载***
 
 **蓝奏云下载地址**：<https://www.lanzouy.com/b026rns3a> 密码:1233
 
