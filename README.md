@@ -2,7 +2,9 @@
 
 中文字符集，可以用来创建 Unity TextMeshPro 中文字体。
 
-包含: 常用汉字、数字、英文字母大小写(a,b...,A,B...)、常用特殊符号(@#...)、常用中文符号(，。！...)、常用英文符号(,.!...)，如有补充可以通过提 [Issues](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set/issues/new/choose) 告诉我，感谢 ❤
+包含: 常用汉字、数字、英文字母大小写(a,b...,A,B...)、常用特殊符号(@#...)、常用中文符号(，。！...)、常用英文符号(,.!...)。
+
+如有补充可以通过提 [Issues](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set/issues/new/choose) 告诉我，感谢 ❤
 
 文件介绍：
 
@@ -27,6 +29,8 @@
 
 Chinese characters set. Could be used to create Unity TextMeshPro Chinese font.
 
-Conclude &approx;[3500](/3500汉字+符号+英文字符集.txt) (or &approx;[7000](/7000汉字+符号+英文字符集.txt)) common Chinese characters + all English letters(a,b,c...,A,B,C....) + common symbols(@#￥...)(Basic Latin Unicode characters) + common Chinese symbols(，。！？...)
+Contains: Common Chinese characters, numbers, English letters upper and lower case(a,b...,A,B...), common special symbols(@#...), common Chinese symbols(,.!...), commonly used English symbols(,.!...).
+
+If you have any supplements, you can tell me by mentioning [Issues](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set/issues/new/choose), thank you ❤
 
 Could you please give me a **star**⭐ if this repo is helpful to you? Thank you!
