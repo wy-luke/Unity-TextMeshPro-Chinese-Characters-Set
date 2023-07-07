@@ -2,7 +2,7 @@
 
 中文字符集，可以用来创建 Unity TextMeshPro 中文字体。
 
-包含: 常用汉字、数字、英文字母大小写(a,b...,A,B...)、常用特殊符号(@#...)、常用中文符号(，。！...)、常用英文符号(,.!...)，如有补充可以通过提 Issues 告诉我，感谢 ❤
+包含: 常用汉字、数字、英文字母大小写(a,b...,A,B...)、常用特殊符号(@#...)、常用中文符号(，。！...)、常用英文符号(,.!...)，如有补充可以通过提 [Issues](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set/issues/new/choose) 告诉我，感谢 ❤
 
 文件介绍：
 
@@ -13,7 +13,7 @@
 
 [使用教程](https://blog.csdn.net/qq_37454669/article/details/121128100)
 
-当然也可以直接下载**我制作好的**，字体采用的是 `NotoSansSC-Medium.otf`，文件名是 TMPChineseFont.zip。
+当然也可以直接下载**我制作好的 TextMeshPro 中文字体**，字体采用的是 `NotoSansSC-Medium.otf`，文件名是 TMPChineseFont.zip。
 
 *Word 版转自[知乎](https://zhuanlan.zhihu.com/p/109593054)*
 
