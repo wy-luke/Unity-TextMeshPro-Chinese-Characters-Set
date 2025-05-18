@@ -1,36 +1,59 @@
-# Unity-TextMeshPro-Chinese-Characters-Set
+# ALL-Chinese-Character-Set
 
-中文字符集，可以用来创建 Unity TextMeshPro 中文字体。
+（全）中文字符集，包含:
 
-包含: 常用汉字、数字、英文字母大小写(a,b...,A,B...)、常用特殊符号(@#...)、常用中文符号(，。！...)、常用英文符号(,.!...)。
+- 汉字
+- 英文字母大小写(a,b,...,A,B,...)
+- 数字
+- 中文符号(，。！...)
+- 英文符号(,.!...)
+- 特殊符号(@#...)
 
-如有补充可以通过提 [Issues](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set/issues/new/choose) 告诉我，感谢 ❤
+致力于维护一个包含全部中文字符（汉字+符号）的字符集，如有补充可以通过 [Issues](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set/issues/new/choose) 告诉我，也欢迎直接提一个 PR，感谢 ❤
 
-文件介绍：
+_喜欢就我给点个 **小星星** ⭐ 呀！感谢感谢！_
 
-- **常用符号(英文+中文)**: 包含了所有通过键盘能打出来的所有符号。
-- **常用符号(英文+中文)-全角**: 即 *常用符号(英文+中文)* 转为全角生成。
-- **3500汉字+符号+英文字符集**: 3500 个常用汉字 + 全部符号（包含上面两个文件，即全角+半角）。
-- **7000汉字+符号+英文字符集**: 7000 个常用汉字 + 全部符号（包含上面两个文件，即全角+半角）。
+## 文件介绍：
 
-[使用教程](https://blog.csdn.net/qq_37454669/article/details/121128100)
+- **symbols.txt**: 符号集，即中文符号 + 英文符号 + 英文字母 + 数字
+- **symbols-fullwidth.txt**: 全角符号集，即符号集转全角
+- **3500+symbols.txt**: 3500 常用汉字 + 全部符号（全角+半角）
+- **7000+symbols**: 7000 常用汉字 + 全部符号（全角+半角）
+- **all+symbols**: 全部汉字 + 全部符号（全角+半角）
 
-当然也可以直接下载**我制作好的 TextMeshPro 中文字体**，字体采用的是 `NotoSansSC-Medium.otf`，文件名是 TMPChineseFont.zip。
+> 为什么是 3500 和 7000 常用汉字？
+>
+> “现代汉语常用字表”是国家语言文字工作委员会和国家教育委员会 1988 年 1 月 26 日联合发布的，其选字范围是 1928 年至 1986 年，在此时段中抽样量按时间越近，抽样量越增的原则，统计了汉字在不同学科的分布和使用情况。汉字抽取的原则以汉字的使用频率为主，考虑了分布度和使用度，也考虑了汉字的构字能力和构词能力等因素等。最后该字表共收录了 3500 个汉字，包括常用字 2500 个，次常用字 1000 个。
 
-*Word 版转自[知乎](https://zhuanlan.zhihu.com/p/109593054)*
+> xlsx 版 3000、7000 常用汉字[参考](https://faculty.blcu.edu.cn/xinghb/zh_CN/article/167473/content/1045.htm)
 
-***本仓库中的文件都可以通过下面的蓝奏云链接中下载***
+## 蓝奏云
 
-**蓝奏云下载地址**：<https://wwjo.lanzouk.com/b028taf2h> 密码:1233
+本仓库中的文件都可以通过下面的蓝奏云链接中下载
 
-喜欢就我给点个**小星星**⭐呀！感谢感谢！
+**蓝奏云下载地址**：<https://wwjo.lanzouu.com/b0ulc3r7g> 密码:1233
+
+## Unity TextMeshPro
+
+字符集可以用于创建 Unity TextMeshPro 中文字体，[使用教程](https://blog.csdn.net/qq_37454669/article/details/121128100)
+
+当然也可以直接下载**我制作好的 TextMeshPro 中文字体**，字体采用的是 `NotoSansSC-Medium.otf`。
+
+> 注意：本人已长期不使用 Unity，所以仓库中的 TextMeshPro 字体文件已经不再维护，不推荐使用
 
 ---
 
-Chinese characters set. Could be used to create Unity TextMeshPro Chinese font.
+All Chinese character set. Could be used to create Unity TextMeshPro Chinese font.
 
-Contains: Common Chinese characters, numbers, English letters upper and lower case(a,b...,A,B...), common special symbols(@#...), common Chinese symbols(,.!...), commonly used English symbols(,.!...).
+Contains:
 
-If you have any supplements, you can tell me by mentioning [Issues](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set/issues/new/choose), thank you ❤
+- Chinese characters
+- English letters upper and lower case(a,b...,A,B...)
+- Numbers
+- Chinese symbols(，。！...)
+- English symbols(,.!...)
+- Special symbols(@#...)
+
+If you have any supplements, you can tell me by mentioning [Issues](https://github.com/wy-luke/Unity-TextMeshPro-Chinese-Characters-Set/issues/new/choose). Thank you ❤
 
 Could you please give me a **star**⭐ if this repo is helpful to you? Thank you!
